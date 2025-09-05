@@ -1,4 +1,4 @@
-# ordenar.py
+# ejercicio.py
 
 def ordenar(calificaciones):
     for i in range(1, len(calificaciones)):
