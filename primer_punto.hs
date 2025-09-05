@@ -1,5 +1,3 @@
-
--- ordenar.hs
 module Main where
 
 ordenar :: Ord a => [a] -> [a]
